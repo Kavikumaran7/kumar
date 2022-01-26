@@ -1,4 +1,4 @@
-[7:32 pm, 26/01/2022] Kavi: #include<stdio.h>
+#include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
 #include<string.h>
